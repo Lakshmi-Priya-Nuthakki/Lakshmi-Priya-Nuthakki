@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 On a mission to land my next role in Data Analytics — currently sharpening my edge with hands-on SQL, dashboard building & data storytelling projects<br>- 🌱 Leveling up my skills in Power BI, Tableau, Advanced SQL, Python<br>- 👯 Down to team up on dashboards, data viz projects, or anything that turns messy data into a good story<br>- 🤔 Could use a hand with breaking into the data analytics space— referrals, mock interviews, portfolio roasts all welcome<br>- 💬 Hit me up about dashboards, SQL, data viz, or my job search journey<br>
+🔭 On a mission to land my next role in Data Analytics — currently sharpening my edge with hands-on SQL, dashboard building & data storytelling projects<br>- 🌱 Leveling up my skills in Power BI, Tableau, Advanced SQL, Python<br>- 👯 Down to team up on dashboards, data viz projects, or anything that turns messy data into a good story<br>- 🤔 Could use a hand with breaking into the data analytics space— referrals, mock interviews, portfolio roasts all welcome<br>- 💬 Hit me up about dashboards, SQL, data viz, or my job search journey<br>
 
 
 ## 🌐 Socials:
